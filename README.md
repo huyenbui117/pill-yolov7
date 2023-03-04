@@ -1,4 +1,9 @@
 # Pill Gates - VAIPE: Medicine Pill Image Recognition Challenge
+Our work to propsose solution for AI4VN challenge: VAIPE: Medicine Pill Image Recognition Challenge.
+
+We achieved **1st** place in both public and private test
+
+Link [Report](VAIPE_Pill_Recognition_Challenge.pdf), [Slide](https://docs.google.com/presentation/d/1TOHPeYEpYZdWGEVT37RMBc84ns2j9yfg)
 ## Config data path
 
 ### 1. Create data_config.json file in [inference](inference) folder.
